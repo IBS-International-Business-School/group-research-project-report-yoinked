@@ -6,11 +6,11 @@
 
 ## Make the word "bold" bold in the following sentence. 
 
-This word is in bold.
+This word is in **bold**.
 
 ## Make the word "italics" italics in the following sentence. 
 
-This word is in italics. 
+*This word is in italics.* 
 
 ## Add a link to https://letmegooglethat.com that opens when the user clicks on the word "here" in the next sentence. 
 
