@@ -6,7 +6,7 @@
 3. Tinu Jijo
 
 ## Declaration
-... 
+We hereby declare the fair use of AI in our project. It was used solely for brainstorming ideas and structuring the report. Additionally, it was employed to check for grammatical errors and misspellings.
 
 ## Introduction
 
