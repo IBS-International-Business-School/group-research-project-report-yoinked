@@ -143,8 +143,6 @@ The chi-square statistic of 4.53 indicates a moderate deviation from the expecte
 
 - **Dietary Preferences**: The largest group of respondents had no dietary restrictions (95 students), followed by Halal (35) and multiple dietary restrictions (30). The diverse range of dietary preferences emphasizes the need for food trucks to offer various meal options to meet the needs of different student groups.
 
-- **Purchase Method Preferences**: The preference for online ordering is clear across most dietary groups, particularly for students with Halal (30) and multiple dietary restrictions (27), suggesting that the ability to pre-order and customize meals is especially attractive to students with specific dietary needs. Additionally, students with no dietary restrictions (95) also showed a strong preference for online ordering, reinforcing the idea that online ordering provides added convenience for all types of customers.
-
 ### Implications for Food Truck Operators
 
 - **Menu Design**: Food trucks should prioritize Halal and multiple dietary restriction options to cater to the significant number of students with these needs. Offering online ordering would also cater to the demand from students who prefer the ability to customize their meals in advance, particularly those with dietary restrictions.
