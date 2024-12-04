@@ -6,7 +6,7 @@
 3. Tinu Jijo
 
 ## Declaration
-... 
+We hereby declare the fair use of AI in our project. It was used solely for brainstorming ideas and structuring the report. Additionally, it was employed to check for grammatical errors and misspellings.
 
 ## Introduction
 IBS university is located in Graphisoft Park, where it hosts multionational companies like Microsoft, SAP, Canon, etc. with over 5,000 employees. IBS university has over 3000 students, pursuing degree in Bachelor’s, Master’s and PhD. The aim of our research project is to explore and see the potential of a food truck offering diversified meal options on the campus. The underlying reason why we chose a research topic on a food truck on the campus is because there are limited options for students and professors to eat both on campus and nearby places. There are a few places to eat like Planteen Café, Cube Café, but these mostly offer meals at high prices which students cannot afford. Besides, as for the supermarket, there is only Auchan hypermarket nearby which mainly offers bakery products. Thereby, students are in need of a decent meal at a reasonable price around the campus.
