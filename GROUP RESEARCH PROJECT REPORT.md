@@ -107,15 +107,25 @@ The chi-square statistic of 4.53 indicates a moderate deviation from the expecte
  
 
 ## Conclusion
-This research suggests that a food truck on the IBS University campus could be a viable and successful business. The survey results highlight the demand for affordable food, with an emphasis on Halal options to cater to a significant portion of the student body. Offering online ordering would also cater to the convenience-driven preferences of students, particularly those with dietary restrictions.
+This research focused to find the need of food truck in the IBS University. It mainly concentrated on three factors which are dietary preferences of students, spending habits of students and lastly preferred purchase method. As a result of the research, it gave some interesting and useful insights for doing the successful operation of the food truck in IBS University.
+For the first factor which is the dietary preferences of students, it shows that students are not following any dietary preferences are the biggest group. But also, there are students who are following a Halal, multiple dietary restrictions, vegetarian/vegan, and gluten free foods. So, these also has to be taken into consideration for the food truck. This will ensure that every student in the IBS University can eat anything they want.
+When coming to second factor which is the spending habits, there are important insights to consider. Most of the students in the IBS University falls into the low spending category. That means the students don’t have or want to spend a lot of money on food. So the pricing of the food items must consider this insight and should keep the price lower. This will help both the students and food truck. Thus we can attract more students to the food truck. If the prices are higher, then students will be forced to buy from other cheaper restaurants.
+The final factor which is purchase method is also an important one consider for the operation of food truck. The research shows that students interested to order online. This behaviour is visible for all dietary preferences. Access to internet among and digital literacy among students could be the reason for this trend. Exploiting these features of students will attract more customers. But for the specific dietary preference this behaviour is much more than other dietary preferences. Also, the students with no dietary preferences are interested with direct ordering from the food truck.
+By considering the insights for the factor’s dietary preferences of students, spending habits of students and preferred purchase method which is derived from the research can make significant changes to the idea of food truck. These key insights should be considered mainly for the efficient operation of food truck. This will ensure a smooth and profitable business for the food truck. This is a good idea that should be implemented in IBS University campus which completely beneficial to both the students and the Food Truck owners.
 
-Given the limited and expensive food options near the campus, the food truck could provide a much-needed solution, offering both convenience and affordability. The findings suggest that food truck operators should focus on diverse, affordable menu options and consider offering online ordering to meet student demands.
 
 
 ## Reflection
-- **Prioritize Halal and Vegetarian/Vegan Options**: To serve the largest number of students with dietary restrictions.
-- **Offer Online Ordering**: To cater to the convenience needs of students and those with dietary restrictions.
-- **Keep Prices Affordable**: Focus on providing affordable options for students, as most fall into the low spending category.
+This research is successful in providing valuable reflections for the implementation of Food Truck on the IBS University campus. The reflections are listed below: 
+
+- **Prioritize Halal and Vegetarian/Vegan Options:** Even though the largest group is the students with no dietary preference, prioritizing Halal and Vegetarian/Vegan Options can satisfy a lot of students and increase sales.
+
+- **Offer Online Ordering:** Considering the digital literacy and internet access among students implementing online ordering will be convenient to a large number of students. These implementations will help mainly the students with specific dietary. This will also help the taste of food truck to reach more people outside IBS University. 
+
+- **Keep Prices Affordable:** Keeping the prices for food items will be definitely helpful to students because a significant number of students don’t want to spend huge amount of money on food. As a result, Food truck will be able to more customers.
+
+ By implementing these valuable reflections to the operation of food truck, this initiative can be transformed to huge success, and it has the potential. This will completely make the students to enjoy food in the campus with their friends according to their diet preferences.
+
 
 ## References
 ... 
