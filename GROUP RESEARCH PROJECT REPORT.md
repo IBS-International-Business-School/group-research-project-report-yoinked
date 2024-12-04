@@ -9,21 +9,92 @@
 ... 
 
 ## Introduction
-IBS university is located in Graphisoft Park, where it hosts multionational companies like Microsoft, SAP, Canon, etc. with over 5,000 employees. IBS university has over 300 students, pursuing degree in Bachelor’s, Master’s and PhD. The aim of our research project is to explore and see the potential of a food truck offering diversified meal options on the campus. The underlying reason why we chose a research topic on a food truck on the campus is because there are limited options for students and professors to eat both on campus and nearby places. There are a few places to eat like Planteen Café, Cube Café, but these mostly offer meals at high prices which students cannot afford. Besides, as for the supermarket, there is only Auchan hypermarket nearby which mainly offers bakery products. Thereby, students are in need of a decent meal at a reasonable price around the campus.
-In the light of all the facts above, we believe that a food truck will be needed, that offers different meal options at convenient prices. In this research, we aim at collecting only students’ opinions on dietary preferences which is a range of multiple dietaries like dairy-free, gluten-free, lactose-free, halal, vegan, multiple dietary restrictions with no dietary meal option. Besides, we gather data about their spending habits and preferred purchase methods to understand what meal options a food truck should offer to have a succesful operation.
-The research will test two hypotheses. First of which is to investigate if spending behavior changes based on dietary preferences. Second is to explore if dietary restrictions affect the purchase method which is either online or in person ordering. Our goal is to achieve actionable insights by analyzing online survey targeted to IBS students.
+
+IBS University is located in Graphisoft Park, which hosts multinational companies like Microsoft, SAP, and Canon, with over 5,000 employees. IBS has over 300 students pursuing degrees at the Bachelor's, Master's, and PhD levels. 
+
+The aim of our research project is to explore and see the potential of a food truck offering diversified meal options on the campus. The underlying reasons why we chose a research topic on a food truck on the campus:
+
+- **Limited eating options**: There are limited options for students and professors to eat both on campus and nearby places. There are a few places to eat like Planteen Café, Cube Café, but these mostly offer meals at high prices which students cannot afford.
+- **Lack of affordable alternatives**: Besides, as for the supermarket, there is only Auchan hypermarket nearby which mainly offers bakery products.
+- **Need for convenience**: Students are in need of a decent meal at a reasonable price around the campus
+In the light of all the facts above, we believe that a food truck will be needed, that offers different meal options at convenient prices.
+
+In this research, we aim at:
+
+- Collecting only **Students’ opinions** on dietary preferences which is a range of multiple dietaries like dairy-free, gluten-free, lactose-free, halal, vegan, multiple dietary restrictions with no dietary meal option.
+- Gathering data about their **Spending habits** and **preferred purchase methods** to understand what meal options a food truck should offer to have a succesful operation.
+
+### Research Hypotheses
+The research will test two hypotheses. First of which is to investigate:
+1.	If spending behavior changes based on dietary preferences.
+Second is to explore:
+2. If dietary restrictions affect the purchase method which is either online or in person ordering.
+
+Our goal is to achieve actionable insights by analyzing online survey targeted to IBS students.
+
+
 
 ## Methodology
+We will now dive deep into the methodology.
+
 ### Survey Design
-We will now dive deep into the methodology. We created an online survey on Google Forms with multiple choice, likert scale and yes/no questions composed of “#numberofquestions”. We distributed to IBS University students and got over “#numberofstudents” responds. We asked questions about their specific dietary preferences, spending budget, frequency of ordering and preferred purchase methods if a food truck is happened to be open on the campus. In this way, we can assess if a food truck has much of a demand from IBS students where their meal options are very limited and/or relatively high priced.
-#### Sampling Method
-When we look at the sampling method, the respondents of the survey were randomly selected from bachelor’s, master’s and PhD students at IBS with the help of an online survey. This helps us better analyze the population’s opinions based on the random diverse sample.
 
-#### Survey Design
-Furthermore, considering the survey questions, we mainly aim to focus on learning dietary preferences, preferred purchase methods and spending budgets of the target sample. To begin with, in terms of dietary preferences, we asked if they follow or opt for specific dietaries from among dairy-free, gluten-free, lactose-free, halal, vegan or even multiple dietary restrictions. So that a food truck may have the most preffered diet options on the menu. Secondly, the survey asked about students’ preferred purchase method by offering two options which is either online or at the truck ordering. It is crucial for us to understand their preferred method, because if in person ordering is way higher, then we could arrange more tables as they would be eating on truck. If the result is the other way around, then we might enhance the ease of use for online ordering. This gives us better insights on measuring the customers’ behavior on purhcase method. Last but not least, the participants were asked to categorize their spending budgets on food as low, medium or high. Low refers to budgets under 3000 Ft, medium budget is between 3000 Ft and 4000 Ft and high budget means over 4000 Ft. Hereby, we intended to understand the optimal price threshold that the customers are willing to pay.
+We created an online survey on Google Forms. The survey included:
 
-#### Hypothesis Testing
-When it comes to Hypothesis testing, two hypotheses testing was carried out. In the first hypothesis, it is intended to spot if students with a specific dietary have a tendency to change their spending behavior either spending more or less than usual. In this case, the null hypothesis, H0, states that there is no relationship between dietary preferences and spending behavior. On the other hand, alternative hypothesis, H1, claims that there is a relationship. As for the second hypothesis, we tested if dietary restrictions have any impact on customers’ purchasing methods. Similarly, the null hypothesis represents that there is no relationship between dietary restrictions and purchasing methods, while the alternative hypothesis supposes that there is such a relationship.
+- **Question types**: Multiple choice, Likert scale, and yes/no questions.
+- **Focus areas**:
+  - Dietary preferences.
+  - Spending budgets.
+  - Ordering frequency.
+  - Preferred purchase methods for food truck services.
+
+We distributed to IBS University students and got over `360` responds to the survey. We asked questions about their specific dietary preferences, spending budget, frequency of ordering and preferred purchase methods if a food truck is happened to be open on the campus. In this way, we can assess if a food truck has much of a demand from IBS students where their meal options are very limited and/or relatively high priced.
+
+### Sampling Method
+When we look at the sampling method, 
+- **Target Population**: The respondents of the survey, 360, were randomly selected from bachelor’s, master’s and PhD students at IBS with the help of an online survey.
+- **Reason for Random Sampling**: This helps us better analyze the population’s opinions based on the random diverse sample.
+
+### Key Survey Insights
+Furthermore, considering the survey questions, we mainly aim to focus on learning dietary preferences, preferred purchase methods and spending budgets of the target sample.
+1. **Dietary Preferences**: 
+   - In terms of dietary preferences, we asked if they follow or opt for specific dietaries from among dairy-free, gluten-free, lactose-free, halal, vegan or even multiple dietary restrictions.
+   - Purpose: So that a food truck may have the most preffered diet options on the menu.
+
+Secondly, the survey asked about students’ preferred purchase method by offering two options which is either online or at the truck ordering.
+2. **Preferred Purchase Methods**:
+   - Options: Online ordering or in-person ordering.
+   - Insights:
+     - if in person ordering is way higher, then we could arrange more tables as they would be eating on truck.
+     - If online ordering shows much higher number than in person ordering, then we might enhance the ease of use for online ordering.
+This gives us better insights on measuring the customers’ behavior on purhcase method.
+
+Last but not least, the participants were asked to categorize their spending budgets on food as low, medium or high.
+3. **Spending Budgets**:
+   - Categories:
+     - Low: Refers to budgets under 3000 Ft
+     - Medium: Refers to budgets between 3000 Ft and 4000 Ft.
+     - High: Refers to budgets over 4000 Ft.
+   - Purpose: Hereby, we intended to understand the optimal price threshold that the customers are willing to pay.
+
+
+### Hypothesis Testing
+When it comes to Hypothesis testing, two hypotheses testing was carried out. In the first hypothesis:
+
+#### Hypothesis 1: It is intended to spot if students with a specific dietary have a tendency to change their spending behavior either spending more or less than usual.
+
+- **Null Hypothesis (H₀)**: States that there is no relationship between dietary preferences and spending behavior.
+On the other hand,
+- **Alternative Hypothesis (H₁)**: Claims that there is a relationship between dietary preferences and spending behavior.
+
+As for the second hypothesis;
+#### Hypothesis 2: We tested if dietary restrictions have any impact on customers’ purchasing methods.
+
+- **Null Hypothesis (H₀)**: Represents that there is no relationship between dietary restrictions and purchasing methods.
+- **Alternative Hypothesis (H₁)**: The alternative hypothesis supposes that there is such a relationship between dietary restrictions and purchase methods.
+
+By the virtue of these two hypotheses testing, we intend to detect the relevant patterns, thus, contributing to determine the strategic decisions on operations of the food truck.
+
 
 ## Results
 ### Descriptive Statistics
