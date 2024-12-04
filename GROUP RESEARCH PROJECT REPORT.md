@@ -9,9 +9,26 @@
 ... 
 
 ## Introduction
-IBS university is located in Graphisoft Park, where it hosts multionational companies like Microsoft, SAP, Canon, etc. with over 5,000 employees. IBS university has over 300 students, pursuing degree in Bachelor’s, Master’s and PhD. The aim of our research project is to explore and see the potential of a food truck offering diversified meal options on the campus. The underlying reason why we chose a research topic on a food truck on the campus is because there are limited options for students and professors to eat both on campus and nearby places. There are a few places to eat like Planteen Café, Cube Café, but these mostly offer meals at high prices which students cannot afford. Besides, as for the supermarket, there is only Auchan hypermarket nearby which mainly offers bakery products. Thereby, students are in need of a decent meal at a reasonable price around the campus.
-In the light of all the facts above, we believe that a food truck will be needed, that offers different meal options at convenient prices. In this research, we aim at collecting only students’ opinions on dietary preferences which is a range of multiple dietaries like dairy-free, gluten-free, lactose-free, halal, vegan, multiple dietary restrictions with no dietary meal option. Besides, we gather data about their spending habits and preferred purchase methods to understand what meal options a food truck should offer to have a succesful operation.
-The research will test two hypotheses. First of which is to investigate if spending behavior changes based on dietary preferences. Second is to explore if dietary restrictions affect the purchase method which is either online or in person ordering. Our goal is to achieve actionable insights by analyzing online survey targeted to IBS students.
+
+IBS University is located in Graphisoft Park, which hosts multinational companies like Microsoft, SAP, and Canon, with over 5,000 employees. IBS has over 300 students pursuing degrees at the Bachelor's, Master's, and PhD levels. 
+
+The aim of our research project is to explore and see the potential of a food truck offering diversified meal options on the campus. The underlying reasons why we chose a research topic on a food truck on the campus:
+
+- **Limited eating options**: There are limited options for students and professors to eat both on campus and nearby places. There are a few places to eat like Planteen Café, Cube Café, but these mostly offer meals at high prices which students cannot afford.
+- **Lack of affordable alternatives**: Besides, as for the supermarket, there is only Auchan hypermarket nearby which mainly offers bakery products.
+- **Need for convenience**: Students are in need of a decent meal at a reasonable price around the campus
+In the light of all the facts above, we believe that a food truck will be needed, that offers different meal options at convenient prices. In this research, we aim at:
+
+- Collecting only **Students’ opinions** on dietary preferences which is a range of multiple dietaries like dairy-free, gluten-free, lactose-free, halal, vegan, multiple dietary restrictions with no dietary meal option.
+- Gathering data about their **Spending habits** and **preferred purchase methods** to understand what meal options a food truck should offer to have a succesful operation.
+
+### Research Hypotheses
+The research will test two hypotheses. First of which is to investigate:
+1.	If spending behavior changes based on dietary preferences.
+Second is to explore:
+2. If dietary restrictions affect the purchase method which is either online or in person ordering.
+
+Our goal is to achieve actionable insights by analyzing online survey targeted to IBS students.
 
 ## Methodology
 We will now dive deep into the methodology.
