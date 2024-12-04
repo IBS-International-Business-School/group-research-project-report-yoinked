@@ -13,7 +13,7 @@ IBS university is located in Graphisoft Park, where it hosts multionational comp
 
 In the light of all the facts above, we believe that a food truck will be needed, that offers different meal options at convenient prices. In this research, we aim at collecting only students’ opinions on dietary preferences which is a range of multiple dietaries like dairy-free, gluten-free, lactose-free, halal, vegan, multiple dietary restrictions with no dietary meal option. Besides, we gather data about their spending habits and preferred purchase methods to understand what meal options a food truck should offer to have a succesful operation.
 
-The research will test two hypotheses. First of which is to investigate if spending behavior changes based on dietary preferences. Second is to explore if dietary restrictions affect the purchase method which is either online or in person ordering. Our goal is to achieve actionable insights by analyzing online survey targeted to IBS students.
+The research will test two hypothesis. First of which is to investigate if spending behavior changes based on dietary preferences. Second is to explore if dietary restrictions affect the purchase method which is either online or in person ordering. Our goal is to achieve actionable insights by analyzing online survey targeted to IBS students.
 
 ## Methodology
 ### Survey Design
@@ -108,9 +108,13 @@ The chi-square statistic of 4.53 indicates a moderate deviation from the expecte
 
 ## Conclusion
 This research focused to find the need of food truck in the IBS University. It mainly concentrated on three factors which are dietary preferences of students, spending habits of students and lastly preferred purchase method. As a result of the research, it gave some interesting and useful insights for doing the successful operation of the food truck in IBS University.
+
 For the first factor which is the dietary preferences of students, it shows that students are not following any dietary preferences are the biggest group. But also, there are students who are following a Halal, multiple dietary restrictions, vegetarian/vegan, and gluten free foods. So, these also has to be taken into consideration for the food truck. This will ensure that every student in the IBS University can eat anything they want.
+
 When coming to second factor which is the spending habits, there are important insights to consider. Most of the students in the IBS University falls into the low spending category. That means the students don’t have or want to spend a lot of money on food. So the pricing of the food items must consider this insight and should keep the price lower. This will help both the students and food truck. Thus we can attract more students to the food truck. If the prices are higher, then students will be forced to buy from other cheaper restaurants.
+
 The final factor which is purchase method is also an important one consider for the operation of food truck. The research shows that students interested to order online. This behaviour is visible for all dietary preferences. Access to internet among and digital literacy among students could be the reason for this trend. Exploiting these features of students will attract more customers. But for the specific dietary preference this behaviour is much more than other dietary preferences. Also, the students with no dietary preferences are interested with direct ordering from the food truck.
+
 By considering the insights for the factor’s dietary preferences of students, spending habits of students and preferred purchase method which is derived from the research can make significant changes to the idea of food truck. These key insights should be considered mainly for the efficient operation of food truck. This will ensure a smooth and profitable business for the food truck. This is a good idea that should be implemented in IBS University campus which completely beneficial to both the students and the Food Truck owners.
 
 
